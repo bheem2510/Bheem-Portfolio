@@ -21,13 +21,16 @@
   --medium-font: 1.8rem;
   --p-font: 0.941rem;
 }
+
 section {
   padding: 50px 10%;
 }
+
 body.active {
   --text-color: #fff;
   --bg-color: #0f0c27;
 }
+
 body {
   background: var(--bg-color);
   color: var(--text-color);
